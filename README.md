@@ -107,3 +107,8 @@ Follow these steps to run GLB.Connect locally:
    ```bash
    git clone https://github.com/yourusername/glbconnect.git
 
+📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+
