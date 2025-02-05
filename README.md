@@ -1,4 +1,4 @@
-#####🎓 GLB.Connect 
+# 🎓 **GLB.Connect**
 
 
 CHECK OUT - [GLB.Connect](https://mb-aarfi.github.io/GLB.Connect/) 🎉
