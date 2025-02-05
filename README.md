@@ -1,6 +1,7 @@
-# GLB.Connect
-CHECK OUT -[GLB.Connect] [https://mb-aarfi.github.io/GLB.Connect/]
+CHECK OUT - [GLB.Connect](https://mb-aarfi.github.io/[GLB.Connect](https://mb-aarfi.github.io/GLB.Connect/)/) 🎉
 A real-time platform designed to help college juniors connect with seniors for personalized guidance on academics, placements, internships, and more. GLB.Connect fosters a collaborative and supportive campus environment, empowering students to succeed together.
+
+GLB.Connect is a dynamic real-time platform designed to help juniors connect with seniors for guidance on academics, placements, internships, and extracurricular activities. This platform enables students to seamlessly navigate college life and prepare for their future with support from experienced peers. 🏆
 
 ## Table of Contents
 - 🚀 [Project Overview](#project-overview)
