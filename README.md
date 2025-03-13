@@ -1,7 +1,7 @@
 # 🎓 **GLB.Connect**
 
 
-CHECK OUT - [GLB.Connect](https://mb-aarfi.github.io/GLB.Connect/) 🎉
+CHECK OUT - [GLB.Connect](https://nahmad231.github.io/GLB.Connect/) 🎉
 
 A real-time platform designed to help college juniors connect with seniors for personalized guidance on academics, placements, internships, and more. GLB.Connect fosters a collaborative and supportive campus environment, empowering students to succeed together.
 
